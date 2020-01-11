@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "Kubernetes": {
+      "name": "Kubernetes",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "basic": 0
+      }
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
